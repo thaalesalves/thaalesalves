@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Olá! Sou o Thales! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<h3 align="center">Bem-vindo ao meu perfil. Aceita um cafezinho?</h3>
 
-<!--
-**thaalesalves/thaalesalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.youracclaim.com/users/thales-alves">
+  <img align="center" width="22px" src="https://i.imgur.com/rse7uZL.png" />
+</a>
+<a href="https://www.gitlab.com/thaalesalves/">
+  <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+</a>
+<a href="https://www.github.com/thaalesalves/">
+  <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.linkedin.com/in/thaalesalves/">
+  <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/guaruaru35mm/">
+  <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+<p align="center">Wannabe fotógrafo, RPGista, viciado em café (o cafezinho que ofereci e você não quis estava delicioso) e viciado em filmes de terror psicológico e músicas synthwave. Ah, também sou programador. Tinha esquecido dessa parte. Mas acho que isso você já sabia, não? Ah, quer saber mais? Vamos lá!</p>
