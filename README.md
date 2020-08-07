@@ -1,5 +1,5 @@
-<h1 align="center">Olá, mundo! Sou o Thales! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
-<h3 align="center">Bem-vindo ao meu perfil. Aceita um cafezinho?</h3>
+<h1 align="center">Hello, world! I'm Thales! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<h3 align="center">Welcome to my profile. Want a coffee?</h3>
 
 <p align="center">
   <a href="https://www.youracclaim.com/users/thales-alves">
@@ -35,68 +35,68 @@
 </p>
 
 ----
-<p align="center"><samp>Wannabe fotógrafo, RPGista, viciado em café (o cafezinho que ofereci e você não quis estava delicioso u.u) e viciado em filmes de terror psicológico e músicas synthwave.</samp></p>
+<p align="center"><samp>Wannabe photographer, RPGist, coffee addict (the coffee I offered you and you declined was delish u.u) and seriously addicted to psychological horror movies and synthwave music.</samp></p>
 
-<p align="center"><samp>Ah, também sou programador. Tinha esquecido dessa parte.</samp></p>
+<p align="center"><samp>Oh, I'm also a programmer. I guess I forgot about this tiny little detail.</samp></p>
 
 
 <details>
   <summary>
-    <b>O que eu faço?</b>
+    <b>What do I do?</b>
   </summary>
-  <p><i>Sim, eu sei que é isso que você quer saber, fique calmx. Algumas infos importantes sobre o que faço profissionalmente. Os ícones ali em cima mostram mais detalhes do que faço, só acessar meu LinkedIn ou meu site o/</i></p>
+  <p><i>Yes, I'm well aware that's why you came here, don't you worry. Here are some important info on what I do professionally. The icons on the top of the page might have more information about my background. You can also check out my [website](https://thalesalv.es) o/</i></p>
   
-  * Sou fluente em Java
+  * I speak Java fluently
   
-  * Também sou fluente em inglês
+  * I also speak portuguese and english fluently
+
+  * I just love cloud computing and containerized distributed systems
+
+  * I use VSCode as my IDE. Yes, VSCode and Java. <i>If I had a nickel for every time someone asked me that...</i>
+
+  * I'm currently working for IBM, as part of the Itaú-Unibanco modernization program
+
+  * I'm familiar with using Spring Framework and its children, such as Boot, Cloud, Security, Data and Actuate
+
+  * I'm currently studying for the specialist certification for both OpenShift and AWS
+
+  * I like to play here and there with Watson (check out) [The Grand Prognosticator](https://github.com/thaalesalves/grand-prognosticator))
   
-  * Sou apaixonado por tecnologia em nuvem e sistemas distribuídos com containers
+  * Docker is life, and if you disagree, I pity you :rage:
   
-  * Eu uso VSCode para programar. Sim, VSCode com Java. <i>Se eu ganhasse 1 real cada que vez que ouvisse essa pergunta...</i>
-  
-  * Trabalho para a IBM na modernização do Itaú-Unibanco
-  
-  * Uso a primave... digo, Spring Framework & seus filhos, como Boot, Cloud, Security, Data e Actuate
-  
-  * Estou trabalhando para a certificação de especialista em OpenShift e AWS
-  
-  * Brinco aqui e ali com o Watson (vide o [Grand Prognosticator](https://github.com/thaalesalves/grand-prognosticator))
-  
-  * Docker é vida. E se você discorda, tenho pena de você :rage:
-  
-  * Tô quase parando de usar WhatsApp para usar Kafka para mandar mensagens. Mas meus amigos não querem aderir à ideia :disappointed:
+  * I'm almost giving up WhatsApp and using Kafka for messaging. Too bad my friends won't take the idea seriously :disappointed:
 </details>
   
 <details>
   <summary>
-    <b>Se eu tenho hobbies?</b>
+    <b>If I have hobbies?</b>
   </summary>
-  <p><i>Meu hobby é ter hobbies...! Talvez não seja, mas eu sou interessante, tá bom? :rage:</i></p>
+  <p><i>I'm hobby is having a bunch of hobbies...! Well, that might not be true, but I am an interesting person, alright? :rage:</i></p>
   
-  * Praticar com tecnologias novas
+  * Practice new technologies
+
+  * Trying to understand Dark (the Netflix series), because, well... that thing is as hard as managing to understand (((((((lisp)))))))
   
-  * Tentar entender Dark, porque né... o bagulho é tipo tentar entender (((((((lisp)))))))
+  * Listening to [my music](https://open.spotify.com/user/ga8jrbgtpkhrz6mzb9lbu6sak), watching [my movies](https://letterboxd.com/thaalesalves/), reading [my books](https://www.goodreads.com/user/show/63327012-thales) and playing [my games](https://steamcommunity.com/id/guaruaru)
   
-  * Ouvir [minhas musiquinhas](https://open.spotify.com/user/ga8jrbgtpkhrz6mzb9lbu6sak), assistir [meus filminhos](https://letterboxd.com/thaalesalves/), ler [meus livrinhos](https://www.goodreads.com/user/show/63327012-thales) e jogar [meus joguinhos](https://steamcommunity.com/id/guaruaru)
+  * Playing an RPG every now and then
   
-  * Jogar meu RPGzinho de vez em quando
+  * Speaking of RPG, here's a system a friend and I made, based on Storyteller: [Amaranth](https://amaranth.thalesalv.es/)
   
-  * Falando em RPG, um sistema que fiz com um amigo baseado no Storyteller: [Amaranth](https://amaranth.thalesalv.es/)
+  * Yes, I'm talking about table-top RPGs. But, as Amaranth suggests, I indeed am an Elder Scrolls fanatic. Please call me a lorebuff. :relieved:
   
-  * Sim, eu tô falando de RPG de mesa. Mas como o Amaranth sugere, sou fanático por Elder Scrolls
+  * And that's why I have [The Grand Prognosticator](https://github.com/thaalesalves/grand-prognosticator): to roll dice, generate sheets and list system rules :robot:
   
-  * E por isso tenho o [Grand Prognosticator](https://github.com/thaalesalves/grand-prognosticator) para rolar dados nas sessões de RPG e consultar regras do sistema :robot:
+  * But we can also mention the [UESPWiki bot](https://gitlab.com/thaalesalves/DiscordBot), that consults the wiki and shows info on TESLore
   
-  * Mas também podemos mencionar o [bot da UESPWiki](https://gitlab.com/thaalesalves/DiscordBot), que consulta qualquer coisa sobre a TESLore
-  
-  * Alguém falou em café? Quero o meu puro. Um blend de catuaí amarelo e vermelho torrado com castanhas, por favor :relieved:
+  * Did anyone say coffee? I want mine pure. A yellow and red catuaí blend toasted with nuts, please :relieved:
 </details>
 
 <details>
   <summary>
-    <b>Por que estou no GitHub?</b>
+    <b>What am I do doing on GitHub?</b>
   </summary>
-  <p><i>Bom, imagino que exatamente a mesma coisa que todos os outros desenvolvedores: desenvolvendo. Mas aqui vão meus status</i></p>
+  <p><i>Well, I imagine the answer is exactly the same for each and every developer here: we're developing. Anyway, here are my stats:</i></p>
  
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thaalesalves&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
