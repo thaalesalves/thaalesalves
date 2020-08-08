@@ -44,7 +44,7 @@
   <summary>
     <b>What do I do?</b>
   </summary>
-  <p><i>Yes, I'm well aware that's why you came here, don't you worry. Here are some important info on what I do professionally. The icons on the top of the page might have more information about my background. You can also check out my [website](https://thalesalv.es) o/</i></p>
+  <p><i>Yes, I'm well aware that's why you came here, don't you worry. Here are some important info on what I do professionally. The icons on the top of the page might have more information about my background. You can also check out my <a href="https://thalesalv.es">website</a> o/</i></p>
   
   * I speak Java fluently
   
@@ -60,7 +60,7 @@
 
   * I'm currently studying for the specialist certification for both OpenShift and AWS
 
-  * I like to play here and there with Watson (check out) [The Grand Prognosticator](https://github.com/thaalesalves/grand-prognosticator))
+  * I like to play here and there with Watson (check out [The Grand Prognosticator](https://github.com/thaalesalves/grand-prognosticator))
   
   * Docker is life, and if you disagree, I pity you :rage:
   
