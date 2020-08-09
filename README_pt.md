@@ -91,12 +91,3 @@
   
   * Alguém falou em café? Quero o meu puro. Um blend de catuaí amarelo e vermelho torrado com castanhas, por favor :relieved:
 </details>
-
-<details>
-  <summary>
-    <b>Por que estou no GitHub?</b>
-  </summary>
-  <p><i>Bom, imagino que exatamente a mesma coisa que todos os outros desenvolvedores: desenvolvendo. Mas aqui vão meus status</i></p>
- 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thaalesalves&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</details>

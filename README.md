@@ -91,12 +91,3 @@
   
   * Did anyone say coffee? I want mine pure. A yellow and red catuaí blend toasted with nuts, please :relieved:
 </details>
-
-<details>
-  <summary>
-    <b>What am I do doing on GitHub?</b>
-  </summary>
-  <p><i>Well, I imagine the answer is exactly the same for each and every developer here: we're developing. Anyway, here are my stats:</i></p>
- 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thaalesalves&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</details>
