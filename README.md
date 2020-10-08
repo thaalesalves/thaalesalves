@@ -1,5 +1,5 @@
 <h1 align="center">Hello, world! I'm Thales! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
-<h3 align="center">Welcome to my profile. Want a coffee?</h3>
+<h3 align="center">Welcome to my profile. Want a cup of coffee?</h3>
 
 <p align="center">
   <a href="https://www.youracclaim.com/users/thales-alves">
@@ -44,7 +44,7 @@
   <summary>
     <b>What do I do?</b>
   </summary>
-  <p><i>Yes, I'm well aware that's why you came here, don't you worry. Here are some important info on what I do professionally. The icons on the top of the page might have more information about my background. You can also check out my <a href="https://thalesalv.es">website</a> o/</i></p>
+  <p><i>Yes, I'm well aware that's why you came here, don't you worry. Here are some important info on what I do professionally. The icons on the top of the page might have more information about my background. You can also check out my <a href="https://thalesalv.es">website</a> <i>(it's in portuguese, mind ypu)</i> o/</i></p>
   
   * I speak Java fluently
   
@@ -56,9 +56,9 @@
 
   * I'm currently working for IBM, as part of the Itaú-Unibanco modernization program
 
-  * I'm familiar with using Spring Framework and its children, such as Boot, Cloud, Security, Data and Actuate
+  * I'm familiar with Spring Framework and its children, such as Boot, Cloud, Security, Data and Actuate
 
-  * I'm currently studying for the specialist certification for both OpenShift and AWS
+  * I'm currently studying for the OpenShift specialist certification
 
   * I like to play here and there with Watson (check out [The Grand Prognosticator](https://github.com/thaalesalves/grand-prognosticator))
   
@@ -71,11 +71,9 @@
   <summary>
     <b>If I have hobbies?</b>
   </summary>
-  <p><i>I'm hobby is having a bunch of hobbies...! Well, that might not be true, but I am an interesting person, alright? :rage:</i></p>
+  <p><i>Oh boy, do I have hobbies? My hobby is having a bunch of hobbies...! Well, that might not be true, but I am an interesting person, alright? :rage:</i></p>
   
-  * Practice new technologies
-
-  * Trying to understand Dark (the Netflix series), because, well... that thing is as hard as managing to understand (((((((lisp)))))))
+  * Practicing new technologies
   
   * Listening to [my music](https://open.spotify.com/user/ga8jrbgtpkhrz6mzb9lbu6sak), watching [my movies](https://letterboxd.com/thaalesalves/), reading [my books](https://www.goodreads.com/user/show/63327012-thales) and playing [my games](https://steamcommunity.com/id/guaruaru)
   
