@@ -61,11 +61,13 @@
 
   * OpenShift FTW. I'm familiar with OCP4 and OCP3, having done the specialist course for both versions. Currently working on the certification
 
-  * I like to play here and there with Watson (check out [The Grand Prognosticator](https://github.com/thaalesalves/grand-prognosticator))
-  
   * Containerization is life, and if you disagree, I pity you :rage:
 
   * With that in mind, I'm also familiar with Docker, Podman, Skopeo and Buildah
+
+  * Speaking of OpenShift and Containers, I've created a free course about OpenShift and Containers for those that would like to check it out. It's in portuguese though 
+
+  * I like to play here and there with Watson (check out [The Grand Prognosticator](https://github.com/thaalesalves/grand-prognosticator))
   
   * I'm almost giving up WhatsApp and using Kafka for messaging. Too bad my friends won't take the idea seriously :disappointed:
 </details>
