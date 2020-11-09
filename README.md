@@ -55,7 +55,7 @@
 
   * I'm currently working for IBM, as part of the Itaú-Unibanco modernization program
 
-  * I'm familiar with using Spring Framework and its children, such as Boot, Cloud, Security, Data and Actuate
+  * I'm familiar with Spring Framework and its children, such as Boot, Cloud, Security, Data and Actuate
 
   * I'm also familiar with microservices development, currently working in baking systems
 
@@ -74,11 +74,9 @@
   <summary>
     <b>If I have hobbies?</b>
   </summary>
-  <p><i>I'm hobby is having a bunch of hobbies...! Well, that might not be true, but I am an interesting person, alright? :rage:</i></p>
+  <p><i>Oh boy, do I have hobbies? My hobby is having a bunch of hobbies...! Well, that might not be true, but I am an interesting person, alright? :rage:</i></p>
   
-  * Practice new technologies
-
-  * Trying to understand Dark (the Netflix series), because, well... that thing is as hard as managing to understand (((((((lisp)))))))
+  * Practicing new technologies
   
   * Listening to [my music](https://open.spotify.com/user/ga8jrbgtpkhrz6mzb9lbu6sak), watching [my movies](https://letterboxd.com/thaalesalves/), reading [my books](https://www.goodreads.com/user/show/63327012-thales) and playing [my games](https://steamcommunity.com/id/guaruaru)
   
