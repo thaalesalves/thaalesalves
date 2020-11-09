@@ -65,7 +65,7 @@
 
   * With that in mind, I'm also familiar with Docker, Podman, Skopeo and Buildah
 
-  * Speaking of OpenShift and Containers, I've created a free course about OpenShift and Containers for those that would like to check it out. It's in portuguese though 
+  * Speaking of OpenShift and Containers, I've created a [free course about](https://github.com/mentoria-openshift) OpenShift and Containers for those that would like to check it out. It's in portuguese though 
 
   * I like to play here and there with Watson (check out [The Grand Prognosticator](https://github.com/thaalesalves/grand-prognosticator))
   
