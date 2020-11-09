@@ -1,5 +1,6 @@
 <h1 align="center">Hello, world! I'm Thales! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="center">Welcome to my profile. Want a coffee?</h3>
+<h2 align="center">Use the icons below for browsing through my social media accounts. Hit me on LinkedIn for professional stuff. You can also <a href="mailto:thales@thalesalv.es">e-mail me</a>.</h2>
 
 <p align="center">
   <a href="https://www.youracclaim.com/users/thales-alves">
@@ -44,13 +45,11 @@
   <summary>
     <b>What do I do?</b>
   </summary>
-  <p><i>Yes, I'm well aware that's why you came here, don't you worry. Here are some important info on what I do professionally. The icons on the top of the page might have more information about my background. You can also check out my <a href="https://thalesalv.es">website</a> o/</i></p>
+  <p><i>Yes, I'm well aware that's why you came here, don't you worry. Here are some important info on what I do professionally.</a> o/</i></p>
   
   * I speak Java fluently
   
   * I also speak portuguese and english fluently
-
-  * I just love cloud computing and containerized distributed systems
 
   * I use VSCode as my IDE. Yes, VSCode and Java. <i>If I had a nickel for every time someone asked me that...</i>
 
@@ -58,11 +57,15 @@
 
   * I'm familiar with using Spring Framework and its children, such as Boot, Cloud, Security, Data and Actuate
 
-  * I'm currently studying for the specialist certification for both OpenShift and AWS
+  * I'm also familiar with microservices development, currently working in baking systems
+
+  * OpenShift FTW. I'm familiar with OCP4 and OCP3, having done the specialist course for both versions. Currently working on the certification
 
   * I like to play here and there with Watson (check out [The Grand Prognosticator](https://github.com/thaalesalves/grand-prognosticator))
   
-  * Docker is life, and if you disagree, I pity you :rage:
+  * Containerization is life, and if you disagree, I pity you :rage:
+
+  * With that in mind, I'm also familiar with Docker, Podman, Skopeo and Buildah
   
   * I'm almost giving up WhatsApp and using Kafka for messaging. Too bad my friends won't take the idea seriously :disappointed:
 </details>
@@ -83,7 +86,7 @@
   
   * Speaking of RPG, here's a system a friend and I made, based on Storyteller: [Amaranth](https://amaranth.thalesalv.es/)
   
-  * Yes, I'm talking about table-top RPGs. But, as Amaranth suggests, I indeed am an Elder Scrolls fanatic. Please call me a lorebuff. :relieved:
+  * Yes, I'm talking about table-top RPGs. But, as Amaranth suggests, I indeed am an <a href="https://en.uesp.net/wiki/User:Thaalesalves">Elder Scrolls fanatic</a>. Please call me a lorebuff. :relieved:
   
   * And that's why I have [The Grand Prognosticator](https://github.com/thaalesalves/grand-prognosticator): to roll dice, generate sheets and list system rules :robot:
   
