@@ -1,6 +1,6 @@
 <h1 align="center">Hello, world! I'm Thales! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="center">Welcome to my profile. Want a coffee?</h3>
-<h2 align="center">Use the icons below for browsing through my social media accounts. Hit me on LinkedIn for professional stuff. You can also <a href="mailto:thales@thalesalv.es">e-mail me</a>.</h2>
+<h4 align="center">Use the icons below for browsing through my social media accounts. Hit me on LinkedIn for professional stuff. You can also <a href="mailto:thales@thalesalv.es">e-mail me</a>.</h4>
 
 <p align="center">
   <a href="https://www.youracclaim.com/users/thales-alves">
