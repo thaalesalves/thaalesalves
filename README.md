@@ -57,11 +57,11 @@
 
   * I'm familiar with Spring Framework and its children, such as Boot, Cloud, Security, Data and Actuate
 
-  * I'm also familiar with microservices development, currently working in baking systems
+  * I'm also familiar with microservices development, currently working with banking systems
 
-  * OpenShift FTW. I'm familiar with OCP4 and OCP3, having done the specialist course for both versions. Currently working on the certification
+  * I know my way around OpenShift 4.x fairly well, especially integrated with Fabric8 for Maven
 
-  * Containerization is life, and if you disagree, I pity you :rage:
+  * I'm a containers and Kubernetes specialist, [certified by Red Hat](https://rhtapps.redhat.com/certifications/badge/verify/6YXJWV5QF4CBIAVCL54LK4SQAMAEQU3CUPSQX2KSDXT6RW46LQ33TZNCC5VGOAYPFY7HVVIGB5XKUTI5W6QLZX6UMV3D6ILAY7YA4GY=)
 
   * With that in mind, I'm also familiar with Docker, Podman, Skopeo and Buildah
 
@@ -70,6 +70,8 @@
   * I like to play here and there with Watson (check out [The Grand Prognosticator](https://github.com/thaalesalves/grand-prognosticator))
   
   * I'm almost giving up WhatsApp and using Kafka for messaging. Too bad my friends won't take the idea seriously :disappointed:
+
+  * And, between my hobbies, I like developing mods for TESV: Skyrim
 </details>
   
 <details>
@@ -91,6 +93,8 @@
   * And that's why I have [The Grand Prognosticator](https://github.com/thaalesalves/grand-prognosticator): to roll dice, generate sheets and list system rules :robot:
   
   * But we can also mention the [UESPWiki bot](https://gitlab.com/thaalesalves/DiscordBot), that consults the wiki and shows info on TESLore
+
+  * As mentioned earlier, I love devoping mods. After saying I develop mods for Skyrim, mentioning Amaranth and talking about my RPG bot, I don't need to say TES is my favorite game franchise, do I? I do? What if I told you I have a tattoo with a quote by Vivec? Does that make it more obvious?
   
   * Did anyone say coffee? I want mine pure. A yellow and red catuaí blend toasted with nuts, please :relieved:
 </details>
