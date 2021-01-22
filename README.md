@@ -59,11 +59,11 @@
 
   * I'm also familiar with microservices development, currently working with banking systems
 
-  * I know my way around OpenShift 4.x fairly well, especially integrated with Fabric8 for Maven
-
   * I'm a containers and Kubernetes specialist, [certified by Red Hat](https://rhtapps.redhat.com/certifications/badge/verify/6YXJWV5QF4CBIAVCL54LK4SQAMAEQU3CUPSQX2KSDXT6RW46LQ33TZNCC5VGOAYPFY7HVVIGB5XKUTI5W6QLZX6UMV3D6ILAY7YA4GY=)
 
-  * With that in mind, I'm also familiar with Docker, Podman, Skopeo and Buildah
+  * I'm also an OpenShift specialist in application development, [certified by Red Hat](https://rhtapps.redhat.com/certifications/badge/verify/6YXJWV5QF4CBIAVCL54LK4SQAMAEQU3CUPSQX2KSDXT6RW46LQ3YWP2PKMJOB2FESKFUN2GLGGL67UAA4DNI6PQU27PFU2ZMLS26POA=)
+
+  * With that in mind, I'm also familiar with OpenShift, Docker, Podman, Skopeo and Buildah
 
   * Speaking of OpenShift and Containers, I've created a [free course about OpenShift and Containers](https://github.com/mentoria-openshift) for those that would like to check it out. It's in portuguese though 
 
@@ -71,7 +71,7 @@
   
   * I'm almost giving up WhatsApp and using Kafka for messaging. Too bad my friends won't take the idea seriously :disappointed:
 
-  * And, between my hobbies, I like developing mods for TESV: Skyrim
+  * And, between my hobbies, I like developing mods for TESV: Skyrim. My main work at the moment is [Domus Imperatoris](https://www.nexusmods.com/skyrimspecialedition/mods/40693).
 </details>
   
 <details>
@@ -94,7 +94,7 @@
   
   * But we can also mention the [UESPWiki bot](https://gitlab.com/thaalesalves/DiscordBot), that consults the wiki and shows info on TESLore
 
-  * As mentioned earlier, I love devoping mods. After saying I develop mods for Skyrim, mentioning Amaranth and talking about my RPG bot, I don't need to say TES is my favorite game franchise, do I? I do? What if I told you I have a tattoo with a quote by Vivec? Does that make it more obvious?
+  * As mentioned earlier, I love devoping mods for the TES franchise. After saying I develop mods for Skyrim, mentioning Amaranth and talking about my RPG bot, I don't need to say TES is my favorite game franchise, do I? I do? What if I told you I have a tattoo with a quote by Vivec? Does that make it more obvious?
   
   * Did anyone say coffee? I want mine pure. A yellow and red catuaí blend toasted with nuts, please :relieved:
 </details>
