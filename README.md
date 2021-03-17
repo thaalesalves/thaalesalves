@@ -98,3 +98,14 @@
   
   * Did anyone say coffee? I want mine pure. A yellow and red catuaí blend toasted with nuts, please :relieved:
 </details>
+
+<details>
+  <summary>
+    <b>My GitHub stats?</b>
+  </summary>
+  
+  <p align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api?username=thaalesalves&show_icons=true&theme=tokyonight&line_height=27">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thaalesalves&hide=css,html&theme=tokyonight">
+  </p>
+</details>
