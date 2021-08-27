@@ -53,7 +53,7 @@
 
   * I use VSCode as my IDE. Yes, VSCode and Java. <i>If I had a nickel for every time someone asked me that...</i>
 
-  * I'm currently working for IBM, as part of the Itaú-Unibanco modernization program
+  * I'm currently working for PrimeIT as a senior software developer
 
   * I'm familiar with Spring Framework and its children, such as Boot, Cloud, Security, Data and Actuate
 
@@ -63,11 +63,13 @@
 
   * I'm also an OpenShift specialist in application development, [certified by Red Hat](https://rhtapps.redhat.com/certifications/badge/verify/6YXJWV5QF4CBIAVCL54LK4SQAMAEQU3CUPSQX2KSDXT6RW46LQ3YWP2PKMJOB2FESKFUN2GLGGL67UAA4DNI6PQU27PFU2ZMLS26POA=)
 
-  * With that in mind, I'm also familiar with OpenShift, Docker, Podman, Skopeo and Buildah
+  * With that in mind, I'm obviously familiar with OpenShift, Docker, Podman, Skopeo and Buildah
 
   * Speaking of OpenShift and Containers, I've created a [free course about OpenShift and Containers](https://github.com/mentoria-openshift) for those that would like to check it out. It's in portuguese though 
 
-  * I like to play here and there with Watson (check out [The Grand Prognosticator](https://github.com/thaalesalves/grand-prognosticator))
+  * I like to play here and there with AI (check out [The Grand Prognosticator](https://github.com/thaalesalves/grand-prognosticator) for a Watson-powered Discord bot and [Jurandir](https://github.com/thaalesalves/jurandir) for a GPT-powered Discord bot)
+
+  * And, with that in mind, I obviously love AI. There's a [repo](https://github.com/thaalesalves/ai-games-research) I use for AI stuff such as datasets as well as Jupyter notebooks on how to train and use GPT-2, GPT-Neo and GPT-J models
   
   * I'm almost giving up WhatsApp and using Kafka for messaging. Too bad my friends won't take the idea seriously :disappointed:
 
@@ -94,7 +96,7 @@
   
   * But we can also mention the [UESPWiki bot](https://gitlab.com/thaalesalves/DiscordBot), that consults the wiki and shows info on TESLore
 
-  * As mentioned earlier, I love devoping mods for the TES franchise. After saying I develop mods for Skyrim, mentioning Amaranth and talking about my RPG bot, I don't need to say TES is my favorite game franchise, do I? I do? What if I told you I have a tattoo with a quote by Vivec? Does that make it more obvious?
+  * As mentioned earlier, I love devoping mods for the TES franchise. After saying I develop mods for Skyrim, mentioning Amaranth and talking about my RPG bot, I don't need to say TES is my favorite game franchise, do I? I do? What if I told you I have a tattoo with a quote by Vivec? Does that make it more obvious? And yes, there are Elder Scrolls datasets for AI in my repo
   
   * Did anyone say coffee? I want mine pure. A yellow and red catuaí blend toasted with nuts, please :relieved:
 </details>
