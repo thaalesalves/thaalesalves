@@ -12,7 +12,7 @@
   <a align="center" href="https://www.github.com/thaalesalves/">
       <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-  <a align="center" href="https\://www.linkedin.com/in/thaalesalves/">
+  <a align="center" href="https://www.linkedin.com/in/thaalesalves/">
       <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 </p>
