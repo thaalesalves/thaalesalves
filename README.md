@@ -1,5 +1,5 @@
 <h1 align="center">Hello, world! I'm Thales! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
-<h3 align="center">Welcome to my profile. Fancy a cup coffee?</h3>
+<h3 align="center">Welcome to my profile. Fancy a cup of coffee?</h3>
 <h4 align="center">Use the icons below for browsing through my social media accounts.<br/>Hit me on LinkedIn for professional stuff.</h4>
 
 <p align="center">
