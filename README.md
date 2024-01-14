@@ -24,12 +24,6 @@
   <a align="center" href="https://open.spotify.com/user/ga8jrbgtpkhrz6mzb9lbu6sak">
       <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
   </a>
-  <a align="center" href="https://www.goodreads.com/user/show/63327012-thales">
-      <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />
-  </a>
-  <a align="center" href="https://letterboxd.com/thaalesalves/">
-      <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/letterboxd.svg" />
-  </a>
   <a align="center" href="https://steamcommunity.com/id/guaruaru">
       <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
   </a>
