@@ -30,7 +30,7 @@
 </p>
 
 ----
-<p align="center"><samp>Wannabe photographer, linguistics hobbyist, RPGist, coffee addict (the coffee I offered you and you declined was delish u.u) and seriously addicted to psychological horror movies and synthwave music.</samp></p>
+<p align="center"><samp>Wannabe photographer, linguistics hobbyist, RPGist and loves psychological horror movies and synthwave music.</samp></p>
 
 <p align="center"><samp>Oh, I'm also a programmer. I guess I forgot about this tiny little detail.</samp></p>
 
